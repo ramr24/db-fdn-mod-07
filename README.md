@@ -1,1 +1,1 @@
-# db-fdn-mod-07
+# Foundation of Databases & SQL Programming (Module 07)
